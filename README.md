@@ -1,4 +1,4 @@
-# NLP project - Analyzing billboard lyrics
+# NLP project - Analyzing billboard lyrics 💯 🎧 🎶
 
 This work aims at analyzing the lyrics of all __Top 100__ year billboard songs from 1957 to 2023:
 1) Setup the data and some scrapping to gather more info about the songs
