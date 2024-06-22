@@ -1,0 +1,10 @@
+pandas
+matplotlib
+seabron
+scipy
+scikit-learn
+xgboost
+textacy
+spacy
+gensim
+sentence-transformers
