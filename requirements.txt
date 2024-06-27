@@ -1,6 +1,6 @@
 pandas
 matplotlib
-seabron
+seaborn
 scipy
 scikit-learn
 xgboost
